@@ -25,9 +25,7 @@ Include the commands used in the Experiment.
 ## OUTPUT
 ### REG NUMBER: 212223040025
 ### NAME: BASKAR J
-![image](https://github.com/user-attachments/assets/a1c53743-ef82-478d-ba30-16d56acea5c3)
 
-![image](https://github.com/user-attachments/assets/2f4b0c71-f7fb-4271-aa65-bcf99def7e8e)
 ## RESULT
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
  
