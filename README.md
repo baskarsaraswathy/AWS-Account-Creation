@@ -5,11 +5,20 @@
     Explain about the Experiment.
 
 ## ALGORITHM
- ### Steps 1:
- ### Steps 2:
- ### Steps 3:
- ### Steps 4:
- ### Steps 5:
+Step 1: Create an AWS Account
+
+Step 2: Log In as Root User
+
+Step 3: Open IAM Management Console
+
+Step 4: Add a New IAM User
+
+Step 5: Configure IAM User Login
+
+Step 6: Set Permissions for IAM User
+
+Step 7: Review and Create IAM User
+
 ## COMMANDS
 Include the commands used in the Experiment.
 
